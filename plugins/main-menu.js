@@ -43,7 +43,7 @@ const defaultMenu = {
   header: '╭─❑ 〔 %category 〕 ❑─\n┃',
   body: '┃❑ %cmd %islimit %isPremium',
   footer: '┃\n╰────────❑\n', 
-  footerText: 'Powered by Jarot',
+  footerText: 'IRGI STORE X BOTZ',
   after: `
 ╭──〔  THANKS TO  〕─⬣
 ⫹⫺ Allah SWT
@@ -527,14 +527,14 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             hydratedButtons: [{
             urlButton: {
                displayText: '🔮YOUTUBE🔮',
-               url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+               url: 'https://youtube.com/channel/'
              }
 
            },
              {
              urlButton: {
                displayText: '🎮GROUP BOT🎮', 
-               url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+               url: 'https://chat.whatsapp.com/E9APcVYLflFH8DaTc37mbh'
              }
 
            },
